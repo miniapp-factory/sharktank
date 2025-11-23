@@ -1,0 +1,82 @@
+
+# 2025-11-23 04:11:34.145877
++Code the following app
++```
++A quiz that lets someone find out what kind of Shark Tank–style entrepreneur they are by answering 5 multiple choice questions, and then allows them to share their result.
++Create 4 result tiers based on their score/personality type:
++
++
++Tier 1 – “Idea-Stage Guppy” (lots of dreams, still figuring out the basics)
++
++
++Tier 2 – “Side-Hustle Starter” (hustling nights/weekends, testing the waters)
++
++
++Tier 3 – “Deal-Ready Founder” (knows their numbers, pitch almost investor-ready)
++
++
++Tier 4 – “Boardroom Shark” (confident, strategic, ready to negotiate and invest)
++
++
++Generate a unique cute cartoon vector illustration for each result tier featuring a Shark Tank–inspired business vibe (no real-person likenesses):
++
++
++Idea-Stage Guppy – nervous but excited founder with a simple product sketch
++
++
++Side-Hustle Starter – founder holding a prototype at a small display table
++
++
++Deal-Ready Founder – confident founder presenting with charts behind them
++
++
++Boardroom Shark – stylish founder at a long table, confidently shaking hands with silhouetted “sharks”
++
++
++Display the corresponding image, tier name, and a short description on the result page for that user. Allow the user to retake the quiz as many times as they want. Write the questions and answers yourself. Randomize the order of the answers for each question.
++Place the quiz on the home page.
++
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-23 04:11:34.146322
++Code the following app
++```
++A quiz that lets someone find out what kind of Shark Tank–style entrepreneur they are by answering 5 multiple choice questions, and then allows them to share their result.
++Create 4 result tiers based on their score/personality type:
++
++
++Tier 1 – “Idea-Stage Guppy” (lots of dreams, still figuring out the basics)
++
++
++Tier 2 – “Side-Hustle Starter” (hustling nights/weekends, testing the waters)
++
++
++Tier 3 – “Deal-Ready Founder” (knows their numbers, pitch almost investor-ready)
++
++
++Tier 4 – “Boardroom Shark” (confident, strategic, ready to negotiate and invest)
++
++
++Generate a unique cute cartoon vector illustration for each result tier featuring a Shark Tank–inspired business vibe (no real-person likenesses):
++
++
++Idea-Stage Guppy – nervous but excited founder with a simple product sketch
++
++
++Side-Hustle Starter – founder holding a prototype at a small display table
++
++
++Deal-Ready Founder – confident founder presenting with charts behind them
++
++
++Boardroom Shark – stylish founder at a long table, confidently shaking hands with silhouetted “sharks”
++
++
++Display the corresponding image, tier name, and a short description on the result page for that user. Allow the user to retake the quiz as many times as they want. Write the questions and answers yourself. Randomize the order of the answers for each question.
++Place the quiz on the home page.
++
++```
++
++Generate an app logo and update the app metadata title and description.
